@@ -1,0 +1,39 @@
+{
+  "name": "Sudoku",
+  "short_name": "Sudoku",
+  "description": "A beautiful Sudoku app with four difficulty levels, pencil notes, hints, and offline support.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#4361ee",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Easy Game",
+      "short_name": "Easy",
+      "url": "./index.html?diff=easy"
+    },
+    {
+      "name": "New Expert Game",
+      "short_name": "Expert",
+      "url": "./index.html?diff=expert"
+    }
+  ],
+  "categories": ["games", "puzzle"],
+  "screenshots": []
+}

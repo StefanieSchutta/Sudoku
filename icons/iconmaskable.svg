@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Full bleed background for maskable icon (safe zone = inner 80%) -->
+  <rect width="512" height="512" fill="#4361ee"/>
+
+  <!-- Grid centered, slightly smaller to respect safe zone -->
+  <line x1="192" y1="90" x2="192" y2="422" stroke="white" stroke-width="5" stroke-opacity="0.55"/>
+  <line x1="320" y1="90" x2="320" y2="422" stroke="white" stroke-width="5" stroke-opacity="0.55"/>
+  <line x1="90"  y1="192" x2="422" y2="192" stroke="white" stroke-width="5" stroke-opacity="0.55"/>
+  <line x1="90"  y1="320" x2="422" y2="320" stroke="white" stroke-width="5" stroke-opacity="0.55"/>
+
+  <rect x="90" y="90" width="332" height="332" rx="12" fill="none" stroke="white" stroke-width="8"/>
+
+  <text x="141" y="166" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.9">4</text>
+  <text x="256" y="166" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.5">·</text>
+  <text x="371" y="166" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.9">7</text>
+
+  <text x="141" y="294" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.5">·</text>
+  <text x="256" y="294" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.9">9</text>
+  <text x="371" y="294" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.5">·</text>
+
+  <text x="141" y="408" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.9">2</text>
+  <text x="256" y="408" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.5">·</text>
+  <text x="371" y="408" text-anchor="middle" font-family="system-ui,sans-serif" font-size="70" font-weight="700" fill="white" opacity="0.9">5</text>
+</svg>
